@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "AirTube",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Pick the audio language on YouTube — keeps your preferred track (e.g. original) even when AirPlaying.",
+        "description": "Description of what the extension does."
+    }
+}
